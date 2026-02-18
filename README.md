@@ -1,7 +1,7 @@
 ## Inventory & Surplus Management System (ISMS)
 
 Live demo (frontend): [`https://isms-app.netlify.app`](https://isms-app.netlify.app)  
-Backend API: [`https://sms-deploy-production.up.railway.app`](https://sms-deploy-production.up.railway.app)
+Backend API: [`https://isms-deploy-production.up.railway.app`](https://isms-deploy-production.up.railway.app)
 
 **ISMS Demo Video**⬇️[![ISMS Demo Video](https://img.youtube.com/vi/z2xTUzS_kzc/maxresdefault.jpg)](https://www.youtube.com/watch?v=z2xTUzS_kzc)
 
