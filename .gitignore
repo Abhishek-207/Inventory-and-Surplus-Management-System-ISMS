@@ -9,6 +9,8 @@ dist/
 build/
 dev-dist/
 
+# Scripts
+backend/src/scripts/
 
 # Uploads directory 
 uploads/

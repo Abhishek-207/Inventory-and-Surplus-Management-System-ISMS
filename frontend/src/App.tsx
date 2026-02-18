@@ -408,7 +408,12 @@ export default function App() {
       </Content>
       <div style={{ borderBottom: '7px solid #0891b2', background: '#fff' }}>
         <div className="container" style={{ padding: 16, textAlign: 'center' }}>
-          <Text style={{ color: '#0891b2', fontSize: 14, fontWeight: 500}}>© {new Date().getFullYear()} Inventory & Surplus Management System</Text>
+          <Text style={{ color: '#0891b2', fontSize: 14, fontWeight: 500}}>
+            © {new Date().getFullYear()} • Built with 💛 by{' '}
+            <a href="https://abhishekpro.in/" target="_blank" rel="noopener noreferrer" style={{ color: '#0891b2', textDecoration: 'none', fontWeight: 900 }}>
+              <strong>Abhishek Singh</strong>
+            </a>
+          </Text>
         </div>
       </div>
     </Layout>

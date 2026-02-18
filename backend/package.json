@@ -11,8 +11,8 @@
     "production": "NODE_ENV=production",
     "lint": "echo 'no linter configured'",
     "seed": "node --no-warnings --loader ts-node/esm ./src/seed.ts",
-    "add-allocation-history": "node --no-warnings --loader ts-node/esm ./src/scripts/addAllocationHistory.ts",
-    "add-allocation-history-js": "node ./src/scripts/addAllocationHistory.js"
+    "fetch-recent-profiles": "node --no-warnings --loader ts-node/esm ./src/scripts/fetchRecentProfiles.ts",
+    "fetch-all-profiles": "node --no-warnings --loader ts-node/esm ./src/scripts/fetchAllProfiles.ts"
   },
   "dependencies": {
     "@types/pdf-parse": "^1.1.5",
